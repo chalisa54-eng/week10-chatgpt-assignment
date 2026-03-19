@@ -1,1 +1,1 @@
-https://your-app-name.streamlit.app
+https://week10-chatgpt-assignment-vtww8zadcygnccnsroqzzj.streamlit.app
